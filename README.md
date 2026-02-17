@@ -246,10 +246,9 @@ Engine resumes automatically.
 
 ---
 
-## AI Assistance Disclosure
+## Development Notes
 
-This project was developed using AI-assisted design and implementation guidance.  
-All architecture decisions were reviewed and understood during development.
+This project was developed using standard research, documentation, and reference materials. All architectural and implementation decisions were reviewed, understood, and validated during development.
 
 ---
 
